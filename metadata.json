@@ -1,0 +1,7 @@
+{
+  "name": "Restaurant AI Management System",
+  "description": "An AI-powered system for restaurant table management, order tracking, waste reduction, and demand prediction. Features include a real-time table map, kitchen order ticket (KOT) display, customer feedback via QR codes, and an AI module to provide insights and optimize operations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
